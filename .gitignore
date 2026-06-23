@@ -1,0 +1,12 @@
+AS7*/
+ROCKY*/
+html/
+.cproject
+.project
+*.swp
+.settings/
+.vscode/
+*.swp
+*.bak
+__pycache__/
+history/*.txt
